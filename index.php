@@ -141,7 +141,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/reverse_card.jpg" alt="Reverse card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/reverse_Card.jpg" alt="Reverse card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
