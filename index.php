@@ -36,9 +36,11 @@
             </div>	
 		</div> 
 		
+		<h1 class="game_Title" align="center"> Rules of the game</h1>
+		
 		<div class="grid-container">
 			<div class="cards">
-				<h1 class="aston_Title" align="center">Rules of the Game</h1>
+				<h1 class="game_Title" align="center">Layout of the game</h1>
 				<p>Age: 16+</p>
 				<p>Maximum Players: 4</p>
 				<button class="collapsible">More information</button>
@@ -55,14 +57,27 @@
 		
 		<div class="grid-container">
 			<div class="cards">
-				<h1 class="aston_Title" align="center">Odd Number thrown</h1>
+				<h1 class="game_Title" align="center">Odd Number thrown</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
-		            <p> A player cannot throw the same number and it must be an even number, that is greater or lower by 1 For example, if 5 is thrown 4 or 6 can be thrown</p>
+		            <p> A player cannot throw the same number and it must be an even number, that is greater or lower by 1. For example, if 5 is thrown 4 or 6 can be thrown</p>
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/5_card.png" alt="5 Of Spades" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/5_Spade.png" alt="5 Of Spades" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+		    </div>
+		</div>
+		
+		<div class="grid-container">
+			<div class="cards">
+				<h1 class="game_Title" align="center">Even Number thrown</h1>
+				<button class="collapsible">More information</button>
+	            <div class="collapsible_content" style="display: none;">
+		            <p> A player cannot throw the same number and it must be an odd number, that is greater or lower by 1. For example, if 6 is thrown user can use 5 or 7</p>
+		        </div>
+		    </div>
+			<div class="img">
+			    <img src="Images/6_Heart.png" alt="6 Of Hearts" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
