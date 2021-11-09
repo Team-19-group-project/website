@@ -7,7 +7,7 @@
 	    <link href="css/style.css" rel="stylesheet">
 	</head>
     <body>
-		<h1 class="game_Title" align="center">+3</h1>
+		<h1 class="game_Title" align="center">+Three</h1>
 		<!-- Navigation bar provides the ability to change pages-->
 	    <div class="navbar">		
         <ul>
@@ -35,6 +35,41 @@
 				<span class="dot"></span>
             </div>	
 		</div> 
+		
+		<div class="grid-container">
+			<div class="cards">
+				<h1 class="aston_Title" align="center">Rules of the Game</h1>
+				<p>Age: 16+</p>
+				<p>Maximum Players: 4</p>
+				<button class="collapsible">More information</button>
+	            <div class="collapsible_content" style="display: none;">
+		            <p>- Playable online</p>
+					<p>- 100 cards to play with</p>
+					<p>- Each player has 8 cards</p>
+		        </div>
+		    </div>
+			<div class="img">
+			    <img src="Images/shuffled_cards.jpeg" alt="Deck of shuffled cards" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+		    </div>
+		</div>
+		
+		<div class="grid-container">
+			<div class="cards">
+				<h1 class="aston_Title" align="center">Odd Number thrown</h1>
+				<button class="collapsible">More information</button>
+	            <div class="collapsible_content" style="display: none;">
+		            <p> A player cannot throw the same number and it must be an even number, that is greater or lower by 1 For example, if 5 is thrown 4 or 6 can be thrown</p>
+		        </div>
+		    </div>
+			<div class="img">
+			    <img src="Images/5_card.png" alt="5 Of Spades" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+		    </div>
+		</div>
+		
+		
+		
+		
+		
 	
     </body>
 	<!--Allows JavaScript to run for relevant functions-->

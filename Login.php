@@ -7,7 +7,7 @@
 		<link href="css/style.css" rel="stylesheet">
 	</head>
 	<body>	    
-		<h1 class="game_Title" align="center">+3</h1>
+		<h1 class="game_Title" align="center">+Three</h1>
 		<!-- Navigation bar provides the ability to change pages-->
 		<div class="navbar">
             <ul>
@@ -19,7 +19,7 @@
 		
 		<!--Login Form-->
 		<div class="login">
-			<h1>Login to +3</h1>
+			<h1>Login to +Three</h1>
 			<form action="Login.php" method="post">
 			    <label for="username">Username</label> 
 				<input type="text" name="username" placeholder="Enter Username">

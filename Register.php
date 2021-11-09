@@ -7,7 +7,7 @@
 	    <link href="css/style.css" rel="stylesheet">
 	</head>
     <body>
-		<h1 class="game_Title" align="center">+3</h1>
+		<h1 class="game_Title" align="center">+Three</h1>
 		<!-- Navigation bar provides the ability to change pages-->
 	    <div class="navbar">
             <ul>
@@ -19,7 +19,7 @@
 		
 		<!--Register Form-->
 		<div class="registerForm">
-		    <h1 align="center"> Register to be a +3 player</h1>
+		    <h1 align="center"> Register to be a +Three player</h1>
 		    <form action="Register.php" method="post">					
 			    <label for="name">Full Name</label>
                 <input type="text" name="name" placeholder="Enter Name">
@@ -31,7 +31,7 @@
                 <input type="password" name="psw" placeholder="Enter Password">
                 <label for="pswConfirm">Confirm Password</label>
                 <input type="password" name="pswConfirm" placeholder="Confirm Password">
-				<p>Already a member? <a href="Login.php">Log in here</a></p>
+				<p>Already a player? <a href="Login.php">Log in here</a></p>
 				<input type="submit" name="reg_Player">
             </form>
 	    </div>
