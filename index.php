@@ -57,6 +57,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">Odd Number thrown</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -70,6 +72,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">Even Number thrown</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -83,6 +87,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">Same Number & Same Colour</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -96,6 +102,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">Block cards</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -109,6 +117,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">Change Number card</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -122,6 +132,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">Reverse Card</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -135,6 +147,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">+Three Card</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -148,6 +162,8 @@
 		
 		<div class="grid-container">
 			<div class="cards">
+				<br>
+				<br>
 				<h1 align="center">Question Card</h1>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
@@ -155,7 +171,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/question_carc.jpg" alt="Question card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/question_card.jpg" alt="Question card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
