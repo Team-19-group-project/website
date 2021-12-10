@@ -51,7 +51,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/shuffled_cards.jpeg" alt="Deck of shuffled cards" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/game_table.png" alt="Game Table" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
@@ -66,7 +66,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/5_Spade.png" alt="5 Of Spades" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/yellow_5.png" alt="Yellow 5 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
@@ -81,7 +81,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/6_Heart.png" alt="6 Of Hearts" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/purple_2.png" alt="Purple 2 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
