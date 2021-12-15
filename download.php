@@ -21,10 +21,8 @@
 		<br>
 		<br>
 		<br>
-		<br>
-		
 		<a href="CurrentBuild_14.12.21.zip" download>
-			<img src="Images/download_button.png" alt="Download Button" style="width=500 height=150 display: block; margin-left: auto; margin-right: auto">
+			<center><img src="Images/download_button.png" alt="Download Button" style="width=500 height=150 "></center>
 		</a>
 	
     </body>
