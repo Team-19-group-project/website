@@ -17,22 +17,11 @@
 		<li><a class="active" href="download.php">Download</a></li>
         </ul>
 		</div>
-		<h1 class="aston_Title" align="center"> Download + Three</h1>
+		<h1 class="aston_Title" align="center"> Download + Three - Click on the image below to start download</h1>
 		
-		<a href="Game/CurrentBuild_14.12.21.zip" download>
-			<img src="Images/game_table.png" alt="Layout of game" width="400" height="400">
+		<a href="CurrentBuild_14.12.21.zip" download>
+			<img src="Images/download_button.gif" alt="Download Button" width="400" height="400">
 		</a>
-	
-	
-	
-		
-		
-		
-		
-		
-		
-		
-		
 	
     </body>
 </html>
