@@ -22,7 +22,7 @@
 		<br>
 		<br>
 		<a href="CurrentBuild_14.12.21.zip" download>
-			<center><img src="Images/download_button.png" alt="Download Button" style="width=500 height=150 "></center>
+			<center><img src="Images/download_button.png" alt="Download Button" width="500" height="150"></center>
 		</a>
 	
     </body>
