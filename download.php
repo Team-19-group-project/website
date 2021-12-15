@@ -19,8 +19,8 @@
 		</div>
 		<h1 class="aston_Title" align="center"> Download + Three</h1>
 		
-		<a href="/Game/CurrentBuild_14.12.21.zip" download>
-			<img src="Images/game_table.png" alt="Layout of game" width="250" height="250">
+		<a href="Game/CurrentBuild_14.12.21.zip" download>
+			<img src="Images/game_table.png" alt="Layout of game" width="400" height="400">
 		</a>
 	
 	
