@@ -18,9 +18,13 @@
         </ul>
 		</div>
 		<h1 class="aston_Title" align="center"> Download + Three - Click on the image below to start download</h1>
+		<br>
+		<br>
+		<br>
+		<br>
 		
 		<a href="CurrentBuild_14.12.21.zip" download>
-			<img src="Images/download_button.png" alt="Download Button" width="400" height="400">
+			<img src="Images/download_button.png" alt="Download Button" style="width=500 height=150 display: block; margin-left: auto; margin-right: auto">
 		</a>
 	
     </body>
