@@ -112,7 +112,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/Block_card.png" alt="Block card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/block_card.png" alt="Block card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
@@ -127,7 +127,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/change_number.jpg" alt="Change number card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/change_number.png" alt="Change number card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
@@ -142,7 +142,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/reverse_Card.jpg" alt="Reverse card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/reverse_card.png" alt="Reverse card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
@@ -172,7 +172,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/question_card.jpg" alt="Question card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/question_card.png" alt="Question card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
