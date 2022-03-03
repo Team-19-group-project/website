@@ -1,0 +1,359 @@
+/* Main */
+* {
+  	box-sizing: border-box;
+	font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+  	font-size: 20px;
+}
+body {
+	background: linear-gradient(#ffffff, #d98cd9) fixed;
+}
+
+.game_Title{
+  	color: #000000;
+  	font-size: 35px;
+  	padding: auto;
+}
+/*Navigation Bar layout*/
+.navbar ul{
+	list-style-type: none;
+    margin: auto;
+    padding: 0px;
+    background-color: #b300b3;
+    overflow: auto;
+    position: -webkit-sticky;
+    position: sticky;	
+}
+
+.navbar li {
+  float: left;
+  border-left:1px solid white;
+}
+
+.navbar li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 15px 100px;
+	text-decoration: none;
+}
+
+.navbar li a:hover {
+	background-color: #cc00cc;
+}
+
+.navbar .active {
+	background-color: #800080;
+}
+
+/*Login Form layout*/
+.login {
+  	width: 400px;
+  	background-color: #ffffff;
+  	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+	margin: 100px auto;
+}
+.login h1 {
+  	text-align: center;
+  	color: #000000;
+  	font-size: 24px;
+  	padding: 20px 0 20px 0;
+	border-bottom: 0.5px solid #000000;
+}
+.login form {
+  	display: flex;
+  	flex-wrap: wrap;
+	justify-content: center;
+  	padding-top: 20px;
+	font-weight: bold;
+}
+
+.login form input[type="password"], .login form input[type="text"] {
+  	width: 350px;
+  	height: 50px;
+  	border: 0.5px solid #000000;
+  	margin-bottom: 20px;
+  	padding: 0 15px;
+}
+.login form input[type="submit"] {
+  	width: 100%;
+  	padding: 15px;
+ 	margin-top: 20px;
+  	background-color: #cc66cc;
+  	border: 0;
+  	cursor: pointer;
+  	font-weight: bold;
+	font-size: 20px;
+  	color: #ffffff;
+  	transition: background-color 0.2s;
+}
+.login form input[type="submit"]:hover {
+	background-color: #993399;
+  	transition: background-color 0.2s;
+}
+
+/*Register Form layout*/
+.registerForm {
+  	width: 50%;
+  	background-color: #ffffff;
+  	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+	margin: 25px auto;
+}
+
+.registerForm form {
+  	display: flex;
+  	flex-wrap: wrap;
+	justify-content: center;
+  	padding-top: 10px;
+	font-weight: bold;
+}
+
+.registerForm form input[type="password"], .registerForm form input[type="text"] {
+  	width: 700px;
+  	height: 50px;
+  	border: 0.5px solid #000000;
+  	margin-bottom: 30px;
+  	padding: 0px 15px;
+}
+.registerForm form input[type="submit"] {
+  	width: 100%;
+  	padding: 15px;
+ 	margin-top: 20px;
+  	background-color: #cc66cc;
+  	border: 0;
+  	cursor: pointer;
+  	font-weight: bold;
+	font-size: 20px;
+  	color: #ffffff;
+  	transition: background-color 0.2s;
+}
+.registerForm form input[type="submit"]:hover {
+	background-color: #993399;
+  	transition: background-color 0.2s;
+}
+
+.registerForm h1 {
+	text-align: center;
+  	color: #000000;
+  	font-size: 30px;
+  	padding: auto;
+}
+
+
+/*Dropdown Menu layout for sorting events*/
+.sortMenu {
+    margin: 0% 0%;
+    padding: 10px;
+    width: 100%;
+}
+
+.selected {
+    margin: 10px 40%;
+    padding: 5px auto;
+}
+
+/*Layout for events*/
+.grid-container {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 500px auto;
+    grid-template-rows: auto;
+    grid-template-areas: "evnt img";
+}
+
+.events {
+	grid-area: evnt;
+	padding: 10px
+}
+
+.img {
+    grid-area: img;
+}
+    
+.collapsible {
+	background-color:#b300b3;
+	color: #ffffff;
+	cursor: pointer;
+	padding: 18px;
+	width: 100%;
+	border: none;
+	text-align: center;
+	outline: none;
+	font-size: 17px;
+}
+  
+.active, .collapsible:hover {
+	background-color: #993399;
+}
+  
+.collapsible_content {
+	padding: 0 20px;
+	width: auto;
+	overflow: hidden;
+	background-color: #cc66cc;
+	color: #ffffff;
+}
+
+/*Error message layout*/
+.error {
+  width: 95%; 
+  margin: 0px auto; 
+  padding: 5px; 
+  border: 1px solid #e13745; 
+  color: #842029; 
+  background:  #f8d7da; 
+  border-radius: 20px; 
+  text-align: center;
+}
+
+/*Booking Form layout*/
+.bookForm{
+	width: 50%;
+  	background-color: #ffffff;
+  	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+	margin: 25px auto;
+	padding-top: 15px;
+}
+
+.bookForm form {
+  	display: flex;
+  	flex-wrap: wrap;
+	justify-content: center;
+  	padding-top: 10px;
+	font-weight: bold;
+}
+
+.bookForm h1 {
+	text-align: center;
+  	color: #000000;
+  	font-size: 20px;
+  	padding: auto;
+}
+
+.bookForm form input[type="submit"] {
+  	width: 100%;
+  	padding: 15px;
+ 	margin-top: 20px;
+  	background-color: #cc66cc;
+  	border: 0;
+  	cursor: pointer;
+  	font-weight: bold;
+	font-size: 20px;
+  	color: #ffffff;
+  	transition: background-color 0.2s;
+}
+.bookForm form input[type="submit"]:hover {
+	background-color: #993399;
+  	transition: background-color 0.2s;
+}
+
+/*Layout for booking dropdown menu*/
+.eventMenu{
+	display: block;
+    width: 100%;
+	font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+	font-size: 20px;
+}
+
+/* Container for slideshow*/
+.slideshow-container {
+  max-width: 50%;
+  position: relative;
+  margin: auto;
+}
+
+/*Layout for dots*/
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #b300b3;
+}
+
+/* Fading animation for slideshow */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+
+/*Layout for events*/
+.grid-container {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 500px auto;
+    grid-template-rows: auto;
+    grid-template-areas: "evnt img";
+}
+
+.cards {
+	grid-area: evnt;
+	padding: 10px
+}
+
+.img {
+    grid-area: img;
+}
+    
+.collapsible {
+	background-color:#b300b3;
+	color: #ffffff;
+	cursor: pointer;
+	padding: 18px;
+	width: 100%;
+	border: none;
+	text-align: center;
+	outline: none;
+	font-size: 17px;
+}
+  
+.active, .collapsible:hover {
+	background-color: #993399;
+}
+  
+.collapsible_content {
+	padding: 0 20px;
+	width: auto;
+	overflow: hidden;
+	background-color: #cc66cc;
+	color: #ffffff;
+}
+
+/* Custom scrollbar*/
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffff; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #b300b3; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #800080; 
+}
+
