@@ -18,27 +18,9 @@
 		<li><a href="download.php">Download</a></li>
         </ul>
 		</div>
-		<h1 class="aston_Title" align="center"> The Newest Card Game Launching Soon....</h1>
+		<h1 class="aston_Title" align="center"> About Us</h1>
 		
-		<!--Slideshow template used from w3schools.com-->		
-		<div class="slideshow-container">
-			<div class="mySlides fade">
-				<img src="Images/cards.jpg" alt="Cards" style="width:750px;height:400px;float:center;">
-			</div>
-			<div class="mySlides fade">
-				<img src="Images/card_game.jpg" alt="Card Game" style="width:750px;height:400px;float:center;">
-			</div>
-			<div class="mySlides fade">
-				<img src="Images/coming_soon.jpg" alt="Coming Soon"style="width:750px;height:400px;float:center;">
-			</div>
-			<div style="text-align:center">
-				<span class="dot"></span> 
-				<span class="dot"></span> 
-				<span class="dot"></span>
-            </div>	
-		</div> 
-		
-		<h1 class="game_Title" align="center"> Rules of the game</h1>
+	
 		
 	
 		
