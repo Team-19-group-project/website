@@ -157,7 +157,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/plus3.png" alt="Plus 3 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/plus_3.png" alt="Plus 3 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
