@@ -51,6 +51,7 @@
 			</div>
 		</div>
 		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -63,6 +64,8 @@
 				</div>
 			</div>
 		</div>
+		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -75,6 +78,8 @@
 				</div>
 			</div>
 		</div>
+		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -87,6 +92,8 @@
 				</div>
 			</div>
 		</div>
+		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -99,6 +106,8 @@
 				</div>
 			</div>
 		</div>
+		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -111,6 +120,8 @@
 				</div>
 			</div>
 		</div>
+		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -123,6 +134,8 @@
 				</div>
 			</div>
 		</div>
+		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -135,6 +148,8 @@
 				</div>
 			</div>
 		</div>
+		</div>
+		<div class = "column">
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
@@ -145,6 +160,7 @@
 					<p>Website Development</p> 
 					<p>Bsc Cybersecurity</p>
 				</div>
+			</div>
 			</div>
 		</div>
 		</div>
