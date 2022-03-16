@@ -341,6 +341,22 @@ body {
 }
 
 /*Format of cards for about us page*/
+.column {
+  float: left;
+  width: 20%;
+  padding: 0 10px;
+}
+.row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
 .flip-card {
   background-color: transparent;
   width: 250px;
