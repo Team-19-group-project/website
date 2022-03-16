@@ -20,19 +20,19 @@
 		</div>
 		<h1 class="aston_Title" align="center"> About Us</h1>
 		
-	
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
+		<!--Card template used from w3schools.com-->
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
     </body>
 </html>
 
