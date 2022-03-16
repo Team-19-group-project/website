@@ -24,7 +24,115 @@
 		<div class="flip-card">
 			<div class="flip-card-inner">
 				<div class="flip-card-front">
-					<img src="anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+				</div>
+				<div class="flip-card-back">
+					<h1>Jeevan Saini</h1> 
+					<p>Website Development</p> 
+					<p>Bsc Cybersecurity</p>
+				</div>
+			</div>
+		</div>
+		<div class="flip-card">
+			<div class="flip-card-inner">
+				<div class="flip-card-front">
+					<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
 				</div>
 				<div class="flip-card-back">
 					<h1>Jeevan Saini</h1> 
