@@ -28,7 +28,7 @@
 				<div class="flip-card">
 					<div class="flip-card-inner">
 						<div class="flip-card-front">
-							<img src="Images/img_Jeevan.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+							<img src="Images/img_Jeevan.PNG" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
 						</div>
 						<div class="flip-card-back">
 							<h1>Jeevan Saini</h1> 
