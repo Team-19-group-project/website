@@ -44,7 +44,7 @@
 			<div class="cards">
 				<h1 align="center">Layout of the game</h1>
 				<p>Age: 16+</p>
-				<p>Maximum Players: 4</p>
+				<p>Maximum Players: 2</p>
 				<button class="collapsible">More information</button>
 	            <div class="collapsible_content" style="display: none;">
 		            <p>- Playable online</p>
@@ -56,37 +56,7 @@
 			    <img src="Images/game_table.png" alt="Game Table" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
-		
-		<div class="grid-container">
-			<div class="cards">
-				<br>
-				<br>
-				<h1 align="center">Odd Number thrown</h1>
-				<button class="collapsible">More information</button>
-	            <div class="collapsible_content" style="display: none;">
-		            <p> A player cannot throw the same number and it must be an even number, that is greater or lower by 1. For example, if 5 is thrown 4 or 6 can be thrown</p>
-		        </div>
-		    </div>
-			<div class="img">
-			    <img src="Images/yellow_5.png" alt="Yellow 5 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
-		    </div>
-		</div>
-		
-		<div class="grid-container">
-			<div class="cards">
-				<br>
-				<br>
-				<h1 align="center">Even Number thrown</h1>
-				<button class="collapsible">More information</button>
-	            <div class="collapsible_content" style="display: none;">
-		            <p> A player cannot throw the same number and it must be an odd number, that is greater or lower by 1. For example, if 6 is thrown user can use 5 or 7</p>
-		        </div>
-		    </div>
-			<div class="img">
-			    <img src="Images/purple_2.png" alt="Purple 2 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
-		    </div>
-		</div>
-		
+			
 		<div class="grid-container">
 			<div class="cards">
 				<br>
@@ -98,22 +68,7 @@
 		        </div>
 		    </div>
 			<div class="img">
-			    <img src="Images/3_Yellow.jpg" alt="Yellow 3" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
-		    </div>
-		</div>
-		
-		<div class="grid-container">
-			<div class="cards">
-				<br>
-				<br>
-				<h1 align="center">Block cards</h1>
-				<button class="collapsible">More information</button>
-	            <div class="collapsible_content" style="display: none;">
-		            <p> If a block card is thrown to you, you miss your turn, and its the next players turn</p>
-		        </div>
-		    </div>
-			<div class="img">
-			    <img src="Images/block_card.png" alt="Block card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
+			    <img src="Images/yellow_5.png" alt="Yellow 5 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
 		
@@ -131,22 +86,7 @@
 			    <img src="Images/change_number.png" alt="Change number card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
-		
-		<div class="grid-container">
-			<div class="cards">
-				<br>
-				<br>
-				<h1 align="center">Reverse Card</h1>
-				<button class="collapsible">More information</button>
-	            <div class="collapsible_content" style="display: none;">
-		            <p> If a reverse card is thrown to you, you miss your turn, and the play goes to the other direction. For example, if it was going to the left, the direction will change to the right</p>
-		        </div>
-		    </div>
-			<div class="img">
-			    <img src="Images/reverse_card.png" alt="Reverse card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
-		    </div>
-		</div>
-		
+
 		<div class="grid-container">
 			<div class="cards">
 				<br>
@@ -161,30 +101,6 @@
 			    <img src="Images/plus_3.png" alt="Plus 3 card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
 		    </div>
 		</div>
-		
-		<div class="grid-container">
-			<div class="cards">
-				<br>
-				<br>
-				<h1 align="center">Question Card</h1>
-				<button class="collapsible">More information</button>
-	            <div class="collapsible_content" style="display: none;">
-		            <p> If a question mark card is thrown to you, you will have to answer a question chosen by the player, otherwise you will have to pick 4 cards.</p>
-		        </div>
-		    </div>
-			<div class="img">
-			    <img src="Images/question_card.png" alt="Question card" style="width:300px;height:250px; display: block; margin-left: auto; margin-right: auto; padding-top: 30px">
-		    </div>
-		</div>
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	
     </body>
 	<!--Allows JavaScript to run for relevant functions-->

@@ -20,14 +20,15 @@
 		</div>
 		<h1 class="aston_Title" align="center"> About Us</h1>
 		
-		<!--Card template used from w3schools.com-->
+		<h1 class="aston_Title" align="center"> Hover over the images to learn more about us</h1>
 		
+		<!--Card template used from w3schools.com-->
 		<div class = "row"> 
 			<div class = "column"> 
 				<div class="flip-card">
 					<div class="flip-card-inner">
 						<div class="flip-card-front">
-							<img src="Images/anonymous.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
+							<img src="Images/img_Jeevan.png" alt="Image of Jeevan Saini" style="width:250px;height:250px;">
 						</div>
 						<div class="flip-card-back">
 							<h1>Jeevan Saini</h1> 
@@ -121,7 +122,7 @@
 						</div>
 						<div class="flip-card-back">
 							<h1>Talha Khalid</h1> 
-							<p>?</p> 
+							<p>Game Development</p> 
 							<p>Bsc</p>
 						</div>
 					</div>

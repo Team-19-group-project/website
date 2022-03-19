@@ -27,8 +27,6 @@
                 <input type="text" name="name" placeholder="Enter Name">
 				<label for="Email">Email Address</label>
                 <input type="text" name="Email" placeholder="Enter Email Address">
-				<label for="phoneNum">Phone Number</label>
-                <input type="text" name="phoneNum" placeholder="Enter Phone Number">
                 <label for="psw">Password</label>
                 <input type="password" name="psw" placeholder="Enter Password">
                 <label for="pswConfirm">Confirm Password</label>
