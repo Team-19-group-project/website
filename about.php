@@ -48,7 +48,7 @@
 						<div class="flip-card-back">
 							<h1>Banta Jabbi Jabbie</h1> 
 							<p>Game Development</p> 
-							<p>Bsc </p>
+							<p>Bsc Computer Science with Business</p>
 						</div>
 					</div>
 				</div>
@@ -93,7 +93,7 @@
 						<div class="flip-card-back">
 							<h1>Alex Abrahall</h1> 
 							<p>Game Development</p> 
-							<p>Bsc </p>
+							<p>Bsc Computer Science with Business</p>
 						</div>
 					</div>
 				</div>
@@ -118,12 +118,12 @@
 				<div class="flip-card">
 					<div class="flip-card-inner">
 						<div class="flip-card-front">
-							<img src="Images/?.png" alt="Image of Talha Khalid" style="width:250px;height:250px;">
+							<img src="Images/img_Talha.PNG" alt="Image of Talha Khalid" style="width:250px;height:250px;">
 						</div>
 						<div class="flip-card-back">
 							<h1>Talha Khalid</h1> 
 							<p>Game Development</p> 
-							<p>Bsc</p>
+							<p>Bsc Computer Science with Business</p>
 						</div>
 					</div>
 				</div>
@@ -133,12 +133,12 @@
 				<div class="flip-card">
 					<div class="flip-card-inner">
 						<div class="flip-card-front">
-							<img src="Images/?.png" alt="Image of Iram Mahbub" style="width:250px;height:250px;">
+							<img src="Images/img_Iram.png" alt="Image of Iram Mahbub" style="width:250px;height:250px;">
 						</div>
 						<div class="flip-card-back">
 							<h1>Iram Mahbub</h1> 
 							<p>Game Development</p> 
-							<p>Bsc</p>
+							<p>Bsc Computer Science with Business</p>
 						</div>
 					</div>
 				</div>
@@ -148,12 +148,12 @@
 				<div class="flip-card">
 					<div class="flip-card-inner">
 						<div class="flip-card-front">
-							<img src="Images/?.png" alt="Image of Chidera Nwagbolu" style="width:250px;height:250px;">
+							<img src="Images/img_Chidera.png" alt="Image of Chidera Nwagbolu" style="width:250px;height:250px;">
 						</div>
 						<div class="flip-card-back">
 							<h1>Chidera Nwagbolu</h1> 
 							<p>Website Development</p> 
-							<p>Bsc</p>
+							<p>Bsc Cybersecurity</p>
 						</div>
 					</div>
 				</div>
@@ -163,7 +163,7 @@
 				<div class="flip-card">
 					<div class="flip-card-inner">
 						<div class="flip-card-front">
-							<img src="Images/?.png" alt="Image of Muhammed Waleed" style="width:250px;height:250px;">
+							<img src="Images/img_Waleed.png" alt="Image of Muhammed Waleed" style="width:250px;height:250px;">
 						</div>
 						<div class="flip-card-back">
 							<h1>Muhammed Waleed</h1> 
