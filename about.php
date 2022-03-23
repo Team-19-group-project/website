@@ -163,7 +163,7 @@
 				<div class="flip-card">
 					<div class="flip-card-inner">
 						<div class="flip-card-front">
-							<img src="Images/img_Waleed.png" alt="Image of Muhammed Waleed" style="width:250px;height:250px;">
+							<img src="Images/img_Waleed.jpeg" alt="Image of Muhammed Waleed" style="width:250px;height:250px;">
 						</div>
 						<div class="flip-card-back">
 							<h1>Muhammed Waleed</h1> 
