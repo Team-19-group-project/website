@@ -5,6 +5,7 @@
 		<title>Login</title>
 		<!-- Loads the css code needed to add style to each page, changing this file would have an impact on all pages-->
 		<link href="css/style.css" rel="stylesheet">
+		<script src="JavaScript/register.js"></script>
 	</head>
 	<body>	    
 		<h1 class="game_Title" align="center">+Three</h1>
@@ -22,13 +23,15 @@
 		<!--Login Form-->
 		<div class="login">
 			<h1>Login to +Three</h1>
-			<form action="Login.php" method="post">
+			<form >
 			    <label for="username">Username</label> 
 				<input type="text" name="username" placeholder="Enter Username">
+				<label for="email">Email</label> 
+				<input type="text" name="Email" placeholder="Enter Email">
 				<label for="psw">Password</label>
 				<input type="password" name="psw" placeholder="Enter Password">
 				<p>Not registered? <a href="Register.php">Sign up here</a></p>
-				<input type="submit"  name = "login_User">
+				<button onclick="loginUser()">Register</button>
 			</form>
 		</div>
 	</body>
