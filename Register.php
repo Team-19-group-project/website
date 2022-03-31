@@ -23,8 +23,8 @@
 		<!--Register Form-->
 		<div class="registerForm">
 		    <h1 align="center"> Register to be a +Three player</h1>
-		    <form >					
-			    <label for="name">Username</label>
+		    <form>					
+				<label for="name">Username</label>
                 <input type="text" name="username" placeholder="Enter Username">
 				<label for="Email">Email Address</label>
                 <input type="text" name="Email" placeholder="Enter Email Address">

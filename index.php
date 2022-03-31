@@ -29,7 +29,7 @@
 				<img src="Images/card_game.jpg" alt="Card Game" style="width:750px;height:400px;float:center;">
 			</div>
 			<div class="mySlides fade">
-				<img src="Images/coming_soon.jpg" alt="Coming Soon"style="width:750px;height:400px;float:center;">
+				<img src="Images/coming_soon.png" alt="Coming Soon"style="width:750px;height:400px;float:center;">
 			</div>
 			<div style="text-align:center">
 				<span class="dot"></span> 

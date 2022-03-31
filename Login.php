@@ -23,7 +23,7 @@
 		<!--Login Form-->
 		<div class="login">
 			<h1>Login to +Three</h1>
-			<form >
+			<form>
 			    <label for="username">Username</label> 
 				<input type="text" name="username" placeholder="Enter Username">
 				<label for="email">Email</label> 
