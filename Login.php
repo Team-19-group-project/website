@@ -26,8 +26,8 @@
 			<form>
 			    <label for="username">Username</label> 
 				<input type="text" name="username" placeholder="Enter Username">
-				<label for="email">Email</label> 
-				<input type="text" name="Email" placeholder="Enter Email">
+				<label for="email">Email Address</label> 
+				<input type="text" name="Email" placeholder="Enter Email Address">
 				<label for="psw">Password</label>
 				<input type="password" name="psw" placeholder="Enter Password">
 				<p>Not registered? <a href="Register.php">Sign up here</a></p>
