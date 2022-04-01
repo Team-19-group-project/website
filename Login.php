@@ -31,7 +31,7 @@
 				<label for="psw">Password</label>
 				<input type="password" name="psw" placeholder="Enter Password">
 				<p>Not registered? <a href="Register.php">Sign up here</a></p>
-				<button onclick="loginUser()">Register</button>
+				<button onclick="loginUser()">Login</button>
 			</form>
 		</div>
 	</body>
