@@ -22,7 +22,7 @@
 		
 		<h1 class="aston_Title" align="center"> Hover over the images to learn more about us</h1>
 		
-		<p><center> We are a group of students from Aston University that have created an exciting card game for our team project that has been in development since September</center><p>
+		<p><center> We are a group of students from Aston University that have created an exciting card game for our team project that has been in development since September 2021!</center><p>
 		
 		<!--Card template used from w3schools.com-->
 		<div class = "row"> 
