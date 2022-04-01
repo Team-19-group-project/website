@@ -23,10 +23,10 @@
 		<!--Slideshow template used from w3schools.com-->		
 		<div class="slideshow-container">
 			<div class="mySlides fade">
-				<img src="Images/cards.jpg" alt="Cards" style="width:750px;height:400px;float:center;">
+				<img src="Images/menu_game.jpeg" alt="Game Menu" style="width:750px;height:400px;float:center;">
 			</div>
 			<div class="mySlides fade">
-				<img src="Images/card_game.jpg" alt="Card Game" style="width:750px;height:400px;float:center;">
+				<img src="Images/gameplay.jpeg" alt="Gameplay" style="width:750px;height:400px;float:center;">
 			</div>
 			<div class="mySlides fade">
 				<img src="Images/coming_soon.png" alt="Coming Soon"style="width:750px;height:400px;float:center;">
