@@ -19,6 +19,8 @@
         </ul>
 		</div>
 		<h1 class="aston_Title" align="center"> Download + Three - Click on the image below to start download</h1>
+		<p><a href="https://github.com/Team-19-group-project">Source code for website and game - Click here!</a></p>
+
 		<br>
 		<br>
 		<br>

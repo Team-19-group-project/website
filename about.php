@@ -22,6 +22,7 @@
 		
 		<h1 class="aston_Title" align="center"> Hover over the images to learn more about us</h1>
 		
+		
 		<!--Card template used from w3schools.com-->
 		<div class = "row"> 
 			<div class = "column"> 
