@@ -24,11 +24,7 @@
 		
 		<p><center> We are a group of students from Aston University that have created an exciting card game for our team project that has been in development since September 2021!</center><p>
 		
-		<video width="750" height="400" align="center" controls>
-			<source src="Images/+3 Gameplay.mp4" type="video/mp4" >
-			Your browser does not support the video tag!
-		</video>
-		
+		<p> <center> <a href="https://mega.nz/file/j19WiDSb#rZQv72DaXP1bmOEUN9qgWW4NeVBbT1ktHnt5MH-Nsnc">View some gameplay - Click here!</a> </center></p>
 		
 		
 		
