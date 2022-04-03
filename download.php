@@ -24,7 +24,7 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://plusthreedownload.s3.eu-west-2.amazonaws.com/%2B3.zip" download>
+		<a href="https://plussthree.s3.eu-west-2.amazonaws.com/%2B3+Final.zip" download>
 			<center><img src="Images/download_button.png" alt="Download Button" width="500" height="150"></center>
 		</a>
 	
